@@ -2,8 +2,8 @@ Glavni lik
 -Lisica sa maskom i torbom.
 
 Neprijatelji
--Kokoši
--Pas Èuvar
+-Kokosi
+-Pas cuvar
 -Vuk
 -Vepar
 -Medvjed
@@ -13,16 +13,16 @@ Alati
 -Jaja
 
 Zamke
--Medvjeða zamka
+-Medvjeda zamka
 -Trnje
 -Strijele
--Ježevi
+-Jezevi
 -Kamenje/Gumb
 
 Pozadina
 -Jazbina-Zemljani Teren
         -Lisnati krevet
-        -Pauèina
+        -Paucina
         -Krijesnica u staklenci
 	-Pokvarena hrana
         -Trophy wall panel
@@ -30,31 +30,31 @@ Pozadina
         -Pikselizirana slika dominika sa diplomom
         -Sat na zidu
 
--Šuma-Travnati teren
-     -Drveèe(2-6 varijacije)
-     -Lišèe
+-Å uma-Travnati teren
+     -Drvece(2-6 varijacije)
+     -Lisce
      -Travke(Barem 2 varijacije skupina)
      -Drveni most
      -Drvena ograda
 
--Proljeèe-Travnati teren
-         -Cvjeèe(2-4 varijacije)
+-ProljeÃ¨e-Travnati teren
+         -Cvjece(2-4 varijacije)
          -Grmlje
 
--Opèenito-Kokošinjac
-         -Pseèja kuèica
+-OpÃ¨enito-KokoÅ¡injac
+         -Psecja kucica
          -Vodeni teren(Bez animacije vode)
          -Vrata od drvene ograde
          -Trofeji
          -
 
--Ljeto-Pšenica
+-Ljeto-PÅ¡enica
       -
 
 -Jesen-Lisnati teren
-      -Lišèe
+      -Lisce
       -
 
--Zima-Snježni teren
+-Zima-SnjeÅ¾ni teren
      -Pahulje
      -Led
