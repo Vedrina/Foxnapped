@@ -8,22 +8,20 @@ Opis - ne krvava.
 
 Prostor - 2.5D
 
+Grafika - Cartoonish, low-poly
+
 Lik - Lisica s maskom(thief style, satchel za jaja)
 
-Enemyi - kokoši(jaje/health), pijetao(alarm), lovci(alarm, 
-	ne može se direktno ubiti), pas čuvar(alarm), vuk(trofej krzno),
-	vepar (trofej glava) 
+Enemyi - kokoši(jaje/health), pijetao(alarm),  pas čuvar(alarm), vuk(trofej krzno),
+	vepar (trofej glava), medvjed (trofej krzno) 
 
 Mehanika - krade jaja, papa piliće, (health/food system), aktivnosti zahtjevaju food,
-	kokoš malo poveća health i puno food-a, secret itemi (povećanje health-a),
+	kokoš malo poveća health i puno food-a, secret itemi (povećanje health-a), 
 	izbjegava zamke, trči/skače,
-	nür tipkovnica, ne smije aktivirat pijevca ili kokoš,
-	bježi od lovca ako se aktivira alarm, mehanika trofeja od minibosseva, može se
-	skompati sa zamkom ježom kojeg možeš bacit ili poslat po jaja,zamke (medvjeđe, 
+	nür tipkovnica, ne smije aktivirat pijevca, 
+	mehanika trofeja od minibosseva, zamke (medvjeđe, 
 	ježevi, neke strijele...), skriveni gumbić kojim se aktivira padanje kamenja
-	ili grane), ako lupi u drvo padne grana, lovcu možeš nabiti češer u cijev puške,
-	fulano jaje privlači pozornost(nasane jaje na oko, kokoši polude enraged, kokoši
-	idu u gym, steroidi, amfetamini),
+	ili grane), ako lupi u drvo padne grana
 	
 Napadi - baca jaja, grebanje, scream, dash (unaprijed,natrag), damage je int.
 
@@ -38,7 +36,15 @@ Leveli -  1. MainLevel(iz jazbine ide u šumu, pokvarena hrana,
 	  5. Jesen (skrivanje iza hrpa cvijeća, mrak oko 6...)
 	  6. Zima (skrivanje ispod medvjeđeg krzna(trofeja), mrak oko 5, na kraju levela 
 			krene padat snijeg pa se moraš brzo vratit u jazbinu, brzo vraćanje 
-			doma na timer, možda klizanje i izbjegavanje neprijatelja)
-	  7. HC Farma (skupiš nojevo jaje i to popuni inventory, sporiji si, ...)
+			doma na timer)
+	 
+	  
+	  
+	  
+	  Dodatno : 
+	  lovci(alarm, 	ne može se direktno ubiti), bježi od lovca ako se aktivira alarm, lovcu možeš nabiti češer u cijev puške,
+	  3 udarca i bok umjesto 100 hpa
+	  7. HC Farma (skupiš nojevo jaje i to popuni inventory, sporiji si, ...), možda neki drugi level
+	  možda klizanje i izbjegavanje neprijatelja
 
 	
