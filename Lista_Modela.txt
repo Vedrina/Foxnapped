@@ -1,0 +1,60 @@
+Glavni lik
+-Lisica sa maskom i torbom.
+
+Neprijatelji
+-Kokoši
+-Pas Èuvar
+-Vuk
+-Vepar
+-Medvjed
+-Pijetao
+
+Alati
+-Jaja
+
+Zamke
+-Medvjeða zamka
+-Trnje
+-Strijele
+-Ježevi
+-Kamenje/Gumb
+
+Pozadina
+-Jazbina-Zemljani Teren
+        -Lisnati krevet
+        -Pauèina
+        -Krijesnica u staklenci
+	-Pokvarena hrana
+        -Trophy wall panel
+        -Boca starog lisca
+        -Pikselizirana slika dominika sa diplomom
+        -Sat na zidu
+
+-Šuma-Travnati teren
+     -Drveèe(2-6 varijacije)
+     -Lišèe
+     -Travke(Barem 2 varijacije skupina)
+     -Drveni most
+     -Drvena ograda
+
+-Proljeèe-Travnati teren
+         -Cvjeèe(2-4 varijacije)
+         -Grmlje
+
+-Opèenito-Kokošinjac
+         -Pseèja kuèica
+         -Vodeni teren(Bez animacije vode)
+         -Vrata od drvene ograde
+         -Trofeji
+         -
+
+-Ljeto-Pšenica
+      -
+
+-Jesen-Lisnati teren
+      -Lišèe
+      -
+
+-Zima-Snježni teren
+     -Pahulje
+     -Led
