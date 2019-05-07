@@ -1,0 +1,59 @@
+Sve je pseudokod.
+1. Skripta na glavnom liku
+    
+    -----Kretanje lijevo/desno pomocu A i D tipki
+              {
+                if(inputD) 
+                {
+                  ako je rotiran lijevo, rotiraj desno
+                  kreći ga po forward osi
+                }
+                if(inputA) 
+                {
+                  ako je rotiran desno, rotiraj lijevo
+                  kreći ga po forward osi
+                }
+              }
+    -----Skakanje pomoću SPACE-a
+              { if(canJump and inputSpace) 
+                {
+                  addaj force po y osi i pomnozi to sa snagom jumpa
+                }
+              }
+    
+    -----Crouch S? 
+              { if(inputS) 
+                {
+                  smanji visinu collidera i characterControllera
+                  disableaj kretanje po z osi
+                }
+              }
+        
+    -----Meelee J?
+              { if(inputJ) 
+                {
+                  enableaj sphereCollider(trigger) ispred lisice 
+                  *Na njemu je skripta onTriggerEnter za udarac
+                }
+              }
+              
+    -----EggThrow K? 
+              { if(inputK) 
+                {
+                  instantietaj jaje na jednom transformu
+                  2 OPCIJE:
+                    *1/2 addforce na rigidbody pod kutem
+                    *2/2 transform po forward osi
+                }
+              }
+    -----Scream L?
+              { if(inputL) 
+                {
+                  enableaj sphereCollider oko glavnog lika
+                  pošto imamo 2 trigger collidera na liku (udaranje i scream)
+                  možemo kreirati emptyGameObject sa skriptom scream na transformu lisice s triggerColliderom
+                  koji ce se obrisati nakon nekog durationa
+                }
+              }
+    
+    
