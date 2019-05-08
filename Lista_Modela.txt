@@ -46,7 +46,7 @@ Pozadina
          -Vodeni teren(Bez animacije vode)
          -Vrata od drvene ograde
          -Trofeji
-         -Baklja
+         -Baklja (Napravljeno, samo treba teksturu)
 	 -Skrinja
 
 -Ljeto-Pšenica
