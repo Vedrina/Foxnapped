@@ -46,7 +46,8 @@ Pozadina
          -Vodeni teren(Bez animacije vode)
          -Vrata od drvene ograde
          -Trofeji
-         -
+         -Baklja
+	 -Skrinja
 
 -Ljeto-Pšenica
       -
