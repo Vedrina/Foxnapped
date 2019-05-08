@@ -23,7 +23,7 @@ Pozadina
 -Jazbina-Zemljani Teren
         -Lisnati krevet
         -Paucina
-        -Krijesnica u staklenci
+        -Krijesnica u staklenci - (Napravljeno samo treba teksturu)
 	-Pokvarena hrana
         -Trophy wall panel
         -Boca starog lisca
