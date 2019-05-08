@@ -47,7 +47,7 @@ Pozadina
          -Vrata od drvene ograde
          -Trofeji
          -Baklja (Napravljeno, samo treba teksturu)
-	 -Skrinja
+	 -Skrinja (Napravljeno, samo treba teksturu)
 
 -Ljeto-Pšenica
       -
