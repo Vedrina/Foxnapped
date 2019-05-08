@@ -35,7 +35,7 @@ Pozadina
      -Lisce
      -Travke(Barem 2 varijacije skupina) - (Napravljene, tebaju samo teksturu)
      -Drveni most
-     -Drvena ograda
+     -Drvena ograda - (Napravljeno, samo treba teksturu)
 
 -Proljeèe-Travnati teren
          -Cvjece(2-4 varijacije)
