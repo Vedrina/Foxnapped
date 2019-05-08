@@ -33,7 +33,7 @@ Pozadina
 -Šuma-Travnati teren
      -Drvece(2-6 varijacije) - (4 Varijacije zavrsene)
      -Lisce
-     -Travke(Barem 2 varijacije skupina)
+     -Travke(Barem 2 varijacije skupina) - (Napravljene, tebaju samo teksturu)
      -Drveni most
      -Drvena ograda
 
