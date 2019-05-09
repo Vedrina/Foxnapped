@@ -17,7 +17,7 @@ Zamke
 -Trnje - (Napravljeno samo treba teksturu)
 -Strijele
 -Jezevi
--Kamenje/Gumb
+-Kamenje/Gumb (Napravljeno samo treba teksturu)
 
 Pozadina
 -Jazbina-Zemljani Teren
