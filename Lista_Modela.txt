@@ -20,7 +20,7 @@ Zamke
 -Kamenje/Gumb (Napravljeno samo treba teksturu)
 
 Pozadina
--Jazbina-Zemljani Teren - (Napravljeno)
+-Jazbina-Zemljani Teren - (Zavrseno)
         -Lisnati krevet
         -Paucina
         -Krijesnica u staklenci - (Napravljeno samo treba teksturu)
@@ -38,13 +38,13 @@ Pozadina
      -Drveni most - (radim na tome - Danijela)
      -Drvena ograda - (Zavrseno)
 
--Proljeèe-Travnati teren - (Napravljeno)
+-Proljeèe-Travnati teren - (Zavrseno)
          -Cvjece(2-4 varijacije)
          -Grmlje
 
 -Opèenito-Kokošinjac
          -Psecja kucica
-         -Vodeni teren(Bez animacije vode) - (Napravljeno)
+         -Vodeni teren(Bez animacije vode) - (Zavrseno)
          -Vrata od drvene ograde
          -Trofeji
          -Baklja (Zavrseno)
