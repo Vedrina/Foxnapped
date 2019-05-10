@@ -35,7 +35,7 @@ Pozadina
      -Lisce
      -Travke(Barem 2 varijacije skupina) - (Zavrseno)
      -Gljive/Grancice - (Zavrseno)
-     -Drveni most - (radim na tome - Danijela)
+     -Drveni most - (napravljeno, fali tekstura - Danijela)
      -Drvena ograda - (Zavrseno)
 
 -Proljeèe-Travnati teren - (Zavrseno)
