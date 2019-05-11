@@ -1,5 +1,5 @@
 Glavni lik
--Lisica sa maskom i torbom. (Napravljeno samo treba teksturu i animaciju)
+-Lisica sa maskom i torbom. (Zavrseno)
 
 Neprijatelji
 -Kokosi (radim na tome- Danijela)
