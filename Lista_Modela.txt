@@ -13,8 +13,8 @@ Alati
 -Jaja
 
 Zamke
--Medvjeda zamka - (Napravljeno samo treba teksturu)
--Trnje - (Napravljeno samo treba teksturu)
+-Medvjeda zamka - (Zavrseno)
+-Trnje - (Zavrseno)
 -Strijele
 -Jezevi
 -Kamenje/Gumb (Napravljeno samo treba teksturu)
