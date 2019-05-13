@@ -15,7 +15,7 @@ Alati
 Zamke
 -Medvjeda zamka - (Zavrseno)
 -Trnje - (Zavrseno)
--Strijele
+-Strijele - (Napravljeno samo treba teksturu)
 -Jezevi
 -Kamenje/Gumb (Napravljeno samo treba teksturu)
 
