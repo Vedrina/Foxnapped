@@ -2,7 +2,7 @@ Glavni lik
 -Lisica sa maskom i torbom. (Zavrseno)
 
 Neprijatelji
--Kokosi (radim na tome- Danijela)
+-Kokosi (Završeno)
 -Pas cuvar
 -Vuk
 -Vepar
@@ -35,7 +35,7 @@ Pozadina
      -Lisce
      -Travke(Barem 2 varijacije skupina) - (Zavrseno)
      -Gljive/Grancice - (Zavrseno)
-     -Drveni most - (napravljeno, fali tekstura - Danijela)
+     -Drveni most - (Završeno)
      -Drvena ograda - (Zavrseno)
 
 -Proljeèe-Travnati teren - (Zavrseno)
