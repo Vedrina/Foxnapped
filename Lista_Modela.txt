@@ -22,7 +22,7 @@ Zamke
 Pozadina
 -Jazbina-Zemljani Teren - (Zavrseno)
         -Lisnati krevet
-        -Paucina
+        -Paucina - (Zavrseno)
         -Krijesnica u staklenci - (Napravljeno samo treba teksturu)
 	-Pokvarena hrana
         -Trophy wall panel
