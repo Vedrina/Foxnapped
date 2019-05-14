@@ -4,7 +4,7 @@ Glavni lik
 Neprijatelji
 -Kokosi (Završeno)
 -Pas cuvar
--Vuk
+-Vuk (Napravljeno samo treba teksturu)
 -Vepar
 -Medvjed
 -Pijetao
