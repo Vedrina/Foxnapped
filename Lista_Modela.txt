@@ -7,7 +7,7 @@ Neprijatelji
 -Vuk (Napravljeno samo treba teksturu)
 -Vepar
 -Medvjed
--Pijetao
+-Pijetao (Završen)
 
 Alati
 -Jaja (Napravljeno samo treba teksturu)
@@ -37,7 +37,7 @@ Pozadina
      -Gljive/Grancice - (Zavrseno)
      -Drveni most - (Završeno)
      -Drvena ograda - (Zavrseno)
-
+     
 -Proljeèe-Travnati teren - (Zavrseno)
          -Cvjece(2-4 varijacije)
          -Grmlje
@@ -49,7 +49,7 @@ Pozadina
          -Trofeji
          -Baklja (Zavrseno)
 	 -Skrinja (Napravljeno, samo treba teksturu)
-
+         -Štagalj - (Radim na tome D.)
 -Ljeto-Pšenica
       -
 
