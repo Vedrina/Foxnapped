@@ -16,7 +16,7 @@ Zamke
 -Medvjeda zamka - (Zavrseno)
 -Trnje - (Zavrseno)
 -Strijele - (Napravljeno samo treba teksturu)
--Jezevi
+-Jezevi (Radim na time D.)
 -Kamenje/Gumb (Napravljeno samo treba teksturu)
 
 Pozadina
