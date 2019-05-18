@@ -15,7 +15,7 @@ Alati
 Zamke
 -Medvjeda zamka - (Zavrseno)
 -Trnje - (Zavrseno)
--Strijele - (Napravljeno samo treba teksturu)
+-Strijele - (Zavrseno)
 -Jezevi (Radim na time D.)
 -Kamenje/Gumb (Napravljeno samo treba teksturu)
 
@@ -23,7 +23,7 @@ Pozadina
 -Jazbina-Zemljani Teren - (Zavrseno)
         -Lisnati krevet -(Radim na tome D.)
         -Paucina - (Zavrseno)
-        -Krijesnica u staklenci - (Napravljeno samo treba teksturu)
+        -Krijesnica u staklenci - (Zavrseno?)
 	-Pokvarena hrana
         -Trophy wall panel
         -Boca starog lisca - (Radim na tome D.)
@@ -48,8 +48,9 @@ Pozadina
          -Vrata od drvene ograde
          -Trofeji
          -Baklja (Zavrseno)
-	 -Skrinja (Napravljeno, samo treba teksturu)
+	 -Skrinja (Zavrseno)
          -Štagalj - (Završeno)
+	 -Silos - (Zavrseno)
 -Ljeto-Pšenica
       -
 
