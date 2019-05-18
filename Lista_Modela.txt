@@ -21,12 +21,12 @@ Zamke
 
 Pozadina
 -Jazbina-Zemljani Teren - (Zavrseno)
-        -Lisnati krevet
+        -Lisnati krevet -(Radim na tome D.)
         -Paucina - (Zavrseno)
         -Krijesnica u staklenci - (Napravljeno samo treba teksturu)
 	-Pokvarena hrana
         -Trophy wall panel
-        -Boca starog lisca
+        -Boca starog lisca - (Radim na tome D.)
         -Pikselizirana slika dominika sa diplomom
         -Sat na zidu
 
