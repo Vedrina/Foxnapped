@@ -49,13 +49,14 @@ Pozadina
          -Trofeji
          -Baklja (Zavrseno)
 	 -Skrinja (Napravljeno, samo treba teksturu)
-         -Štagalj - (Radim na tome D.)
+         -Štagalj - (Završeno)
 -Ljeto-Pšenica
       -
 
 -Jesen-Lisnati teren
       -Lisce
-      -
+      -Sijeno (Završeno)
+      -Sjenik (Završeno)
 
 -Zima-Snježni teren
      -Pahulje
