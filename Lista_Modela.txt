@@ -3,7 +3,7 @@ Glavni lik
 
 Neprijatelji
 -Kokosi (Završeno)
--Pas cuvar
+-Pas cuvar (Radim na tome D.)
 -Vuk (Napravljeno samo treba teksturu)
 -Vepar
 -Medvjed
@@ -16,7 +16,7 @@ Zamke
 -Medvjeda zamka - (Zavrseno)
 -Trnje - (Zavrseno)
 -Strijele - (Zavrseno)
--Jezevi (Radim na time D.)
+-Jezevi (Zavrseno)
 -Kamenje/Gumb (Napravljeno samo treba teksturu)
 
 Pozadina
@@ -43,7 +43,7 @@ Pozadina
          -Grmlje
 
 -Opèenito-Kokošinjac
-         -Psecja kucica
+         -Psecja kucica (Radim na tome D.)
          -Vodeni teren(Bez animacije vode) - (Zavrseno)
          -Vrata od drvene ograde
          -Trofeji
