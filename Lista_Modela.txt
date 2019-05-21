@@ -43,7 +43,7 @@ Pozadina
          -Grmlje
 
 -Opèenito-Kokošinjac
-         -Psecja kucica (Radim na tome D.)
+         -Psecja kucica (Zavrseno)
          -Vodeni teren(Bez animacije vode) - (Zavrseno)
          -Vrata od drvene ograde
          -Trofeji
